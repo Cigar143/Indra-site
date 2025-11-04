@@ -11,7 +11,7 @@ btn_ig.addEventListener("click", function(event){
         <h3>Instagram</a></h3>
             <div class="redes-links">
             <p><u><a href="https://www.instagram.com/kobiceee" target="_blank">Hendrik<i class="fa-brands fa-instagram"></i></a></u></p>
-            <p><u><a href="" target="_blank">Taua<i class="fa-brands fa-instagram"></i></a></u></p>
+            <p><u><a href="https://www.instagram.com/cigar_143" target="_blank">Taua<i class="fa-brands fa-instagram"></i></a></u></p>
             <p><u><a href="" target="_blank">Andrey<i class="fa-brands fa-instagram"></i></a></u></p>
             <p><u><a href="" target="_blank">Fabio<i class="fa-brands fa-instagram"></i></a></u></p>
             <p><u><a href="" target="_blank">Felipe<i class="fa-brands fa-instagram"></i></a></u></p>
@@ -42,7 +42,7 @@ btn_in.addEventListener("click", function(event){
             <div class="redes-links">
             <p><u><a href="https://www.linkedin.com/in/hendrik-bernardes-obice-2913842bb" target="_blank">Hendrik<i class="fa-brands fa-linkedin"></i></a></u></p>
             <p><u><a href="" target="_blank">Taua<i class="fa-brands fa-linkedin"></i></a></u></p>
-            <p><u><a href="" target="_blank">Andrey<i class="fa-brands fa-linkedin"></i></a></u></p>
+            <p><u><a href="https://www.linkedin.com/in/andrey-alves-paz-2b9ab9394?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">Andrey<i class="fa-brands fa-linkedin"></i></a></u></p>
             <p><u><a href="" target="_blank">Fabio<i class="fa-brands fa-linkedin"></i></a></u></p>
             <p><u><a href="" target="_blank">Felipe<i class="fa-brands fa-linkedin"></i></a></u></p>
             </div>
@@ -71,10 +71,10 @@ btn_git.addEventListener("click", function(event){
         <h3>GitHub</a></h3>
             <div class="redes-links">
             <p><u><a href="https://github.com/Kobiceee" target="_blank">Hendrik<i class="fa-brands fa-github"></i></a></u></p>
-            <p><u><a href="" target="_blank">Taua<i class="fa-brands fa-github"></i></a></u></p>
-            <p><u><a href="" target="_blank">Andrey<i class="fa-brands fa-github"></i></a></u></p>
+            <p><u><a href="https://github.com/cigar143" target="_blank">Taua<i class="fa-brands fa-github"></i></a></u></p>
+            <p><u><a href="https://github.com/andreyalvess" target="_blank">Andrey<i class="fa-brands fa-github"></i></a></u></p>
             <p><u><a href="" target="_blank">Fabio<i class="fa-brands fa-github"></i></a></u></p>
-            <p><u><a href="" target="_blank">Felipe<i class="fa-brands fa-github"></i></a></u></p>
+            <p><u><a href="https://github.com/felipediasss" target="_blank">Felipe<i class="fa-brands fa-github"></i></a></u></p>
             </div>
         </div>  
     `
@@ -88,4 +88,5 @@ btn_git.addEventListener("click", function(event){
 
 
 })
+
 
