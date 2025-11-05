@@ -11,7 +11,7 @@ btn_ig.addEventListener("click", function(event){
         <h3>Instagram</a></h3>
             <div class="redes-links">
             <p><u><a href="https://www.instagram.com/kobiceee" target="_blank">Hendrik<i class="fa-brands fa-instagram"></i></a></u></p>
-            <p><u><a href="https://www.instagram.com/cigar_143" target="_blank">Taua<i class="fa-brands fa-instagram"></i></a></u></p>
+            <p><u><a href="https://www.instagram.com/theedumarins" target="_blank">Taua<i class="fa-brands fa-instagram"></i></a></u></p>
             <p><u><a href="" target="_blank">Andrey<i class="fa-brands fa-instagram"></i></a></u></p>
             <p><u><a href="" target="_blank">Fabio<i class="fa-brands fa-instagram"></i></a></u></p>
             <p><u><a href="" target="_blank">Felipe<i class="fa-brands fa-instagram"></i></a></u></p>
@@ -88,5 +88,6 @@ btn_git.addEventListener("click", function(event){
 
 
 })
+
 
 
